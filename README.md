@@ -124,6 +124,8 @@ This project involved creating a Coffee Sales Dashboard that provides insights i
 
 ## 🛠️ Dashboard Assembly
 
+![Dashboard Image](image.png)
+
 ### 🏗️ Building the Dashboard
 - Combined all charts, slicers, and timeline on a single dashboard.
 - Customized layout and alignment.
