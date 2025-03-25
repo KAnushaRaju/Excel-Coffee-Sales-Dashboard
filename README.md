@@ -1,6 +1,4 @@
-# Excel-Coffee-Sales-Dashboard
-
-# ☕ Coffee Sales Dashboard
+# ☕ Coffee Sales Dashboard using Excel
 
 ## 🎯 Objective
 Create a dynamic and interactive Coffee Sales Dashboard using Excel to demonstrate data gathering, transformation, analysis, and visualization techniques.
