@@ -139,6 +139,5 @@ This project involved creating a Coffee Sales Dashboard that provides insights i
 
 ---
 
-## ✅ Conclusion
-The Coffee Sales Dashboard provides an insightful view of coffee sales across different dimensions, including time, geography, and customer behavior. The project demonstrates advanced Excel techniques, including dynamic formulas, pivot tables, and interactive visualization tools. It is an excellent addition to a portfolio, showcasing data analysis and reporting skills.
+
 
